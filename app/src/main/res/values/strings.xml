@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Google App</string>
+    <string name="cd_weather">weather</string>
+    <string name="cd_profile_image">Profile Image</string>
+    <string name="cd_google">Google Logo</string>
+    <string name="cd_search_icon">Search Icon</string>
+    <string name="ask_anything">Ask anything</string>
+    <string name="cd_google_lens">Google Lens Button</string>
+    <string name="cd_news_image">News Image</string>
+    <string name="cd_news_source_image">News Source Image</string>
+</resources>
