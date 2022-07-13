@@ -29,7 +29,7 @@ fun HomeScreen() {
                     Header()
                 }
                 item {
-                    Search(Modifier.padding(top = 20.sdp, bottom = 22.sdp))
+                    Search(Modifier.padding(top = 20.sdp, bottom = 20.sdp))
                 }
                 repeat(4) {
                     item {
